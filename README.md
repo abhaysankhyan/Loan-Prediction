@@ -8,8 +8,8 @@ Here are the steps:
 
 
 I have used 5 models here :
-Logistic Regression
-K-nearest Neighors
-Support Vector Machine
-Decision Tree
-Random Forest
+-Logistic Regression
+-K-nearest Neighors
+-Support Vector Machine
+-Decision Tree
+-Random Forest
